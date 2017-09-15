@@ -1,0 +1,20 @@
+
+<div class="container">
+  <center>
+<h1 class="results-title">Common Words</h1>
+<div class="results">
+
+  <%= @results1 %>
+  <%= @results2 %>
+<% final = @results1 & @results2 %>
+<% final.each do |word|  %>
+  <ul>
+    <% if word %>
+      <%= word %>
+    <% else %>
+      <%= No matches! %>
+    <% end %>
+  </ul>
+<% end %>
+</div>
+</div>
