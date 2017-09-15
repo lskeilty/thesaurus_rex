@@ -4,13 +4,17 @@
 <h1 class="results-title">Common Words</h1>
 <div class="results">
 
+  <%= params[:word1] %>
   <%= @results1 %>
+
+  <br><br>
+  <%= params[:word2] %>
   <%= @results2 %>
 <% final = @results1 & @results2 %>
 <% final.each do |word|  %>
   <ul>
     <% if word %>
-      <li><%= word %></li>
+      <p><%= word %><p>
     <% else %>
       <p>No matches!</p>
     <% end %>
