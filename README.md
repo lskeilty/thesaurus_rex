@@ -9,9 +9,9 @@ When you're looking for a word that means smart, but wise. Or happy, but cautiou
 I created a Ruby on Rails App, integrated a Thesarus API, and deployed on Heroku. 
 
 # Screenshots
+![Home Screen](https://imgur.com/a/hxNKs)
+![Search Results](https://imgur.com/a/G4bUL)
 
-  <img src="https://imgur.com/a/hxNKs" width="350"/>
-  <img src="https://imgur.com/a/G4bUL" width="350"/>
 
 # Live Link!
 
