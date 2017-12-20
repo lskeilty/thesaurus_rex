@@ -1,6 +1,6 @@
-##Welcome To Thesaurus-Rex!
+## Welcome To Thesaurus-Rex!
 
-#About
+# About
 
 When it comes to a thesaurus, do you ever wish you could search by not one, but two words?
 
@@ -8,13 +8,11 @@ When you're looking for a word that means smart, but wise. Or happy, but cautiou
 
 I created a Ruby on Rails App, integrated a Thesarus API, and deployed on Heroku. 
 
-#Screenshots
+# Screenshots
 
-<p align="center">
-  <img src="https://imgur.com/iPonMpC" width="350"/>
-  <img src="https://imgur.com/1VFF01Q" width="350"/>
-</p>
+  <img src="https://imgur.com/a/hxNKs" width="350"/>
+  <img src="https://imgur.com/a/G4bUL" width="350"/>
 
-#Live Link!
+# Live Link!
 
 [Thesaurus-Rex](http://pacific-castle-79777.herokuapp.com/)
