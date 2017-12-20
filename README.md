@@ -11,8 +11,8 @@ I created a Ruby on Rails App, integrated a Thesarus API, and deployed on Heroku
 # Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/zy2LhhE.jpg" width="350"/>
-  <img src="https://i.imgur.com/F4lG9Lz.jpg" width="350"/>
+  <img src="https://i.imgur.com/88c2MYa.jpg" width="350"/>
+  <img src="https://i.imgur.com/KqcFGCJ.jpg" width="350"/>
 </p>
 
 
